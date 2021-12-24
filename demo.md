@@ -15,4 +15,6 @@ I hope the changes work!
 I am learning a new course on MarkDown. Yay! I'll get there. I'll reach my goal! That is it! :)
 No more changes.
 
-Right now I am creating a Stash example.
+Right now I am creating a Stash example. 
+
+Merging branch from Git Bash console
